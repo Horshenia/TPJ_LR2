@@ -2,7 +2,7 @@ package ua.Paton;
 
 public class Main {
 	public static void main(String[] args) {
-		System.out.println("ÒΟJ_ΛΠ2");
-		System.out.println("18 βεπερνÿ 2022");
+		System.out.println("ΠΆΠJ-Π›Π 2");
+		System.out.println("18 Π²ΠµΡ€ΠµΡΠ½Ρ 2022");
 	}
 }
